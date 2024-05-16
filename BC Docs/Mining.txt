@@ -1,0 +1,83 @@
+Certainly! Below is an example of a `Miner` class for mining blocks in a blockchain:
+
+```csharp
+using System;
+using System.Diagnostics;
+using System.Security.Cryptography;
+using System.Text;
+
+namespace Future
+{
+    public class Miner
+    {
+        private readonly int _difficulty;
+
+        public Miner(int difficulty)
+        {
+            _difficulty = difficulty;
+        }
+
+        public Block Mine(Block block)
+        {
+            Stopwatch stopwatch = new Stopwatch();
+            stopwatch.Start();
+
+            while (true)
+            {
+                string hash = CalculateHash(block);
+                if (IsHashValid(hash))
+                {
+                    stopwatch.Stop();
+                    Console.WriteLine($"Block mined successfully in {stopwatch.ElapsedMilliseconds} milliseconds");
+                    block.Hash = hash;
+                    return block;
+                }
+                block.Nonce++;
+            }
+        }
+
+        private string CalculateHash(Block block)
+        {
+            using (SHA256 sha256 = SHA256.Create())
+            {
+                byte[] inputBytes = Encoding.UTF8.GetBytes($"{block.Index}-{block.Timestamp}-{block.Data}-{block.PreviousHash}-{block.Nonce}");
+                byte[] outputBytes = sha256.ComputeHash(inputBytes);
+                return Convert.ToBase64String(outputBytes);
+            }
+        }
+
+        private bool IsHashValid(string hash)
+        {
+            for (int i = 0; i < _difficulty; i++)
+            {
+                if (hash[i] != '0')
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+    }
+}
+```
+
+Explanation of the `Miner` class:
+
+1. **Fields**:
+   - `_difficulty`: Represents the mining difficulty level. It determines how hard it is to find a valid hash.
+
+2. **Constructor**:
+   - Initializes the miner with the desired difficulty level.
+
+3. **Mine() Method**:
+   - Takes a block as input and attempts to mine it.
+   - Continuously calculates hashes for the block, adjusting the nonce until a valid hash is found.
+   - Once a valid hash is found, updates the block's hash with the valid hash and returns the mined block.
+
+4. **CalculateHash() Method**:
+   - Calculates the hash of a block using SHA-256 hashing algorithm.
+
+5. **IsHashValid() Method**:
+   - Checks if the calculated hash meets the difficulty criteria (e.g., starts with a certain number of leading zeros).
+
+This `Miner` class can be used to simulate the mining process in a blockchain. Adjusting the difficulty level allows you to control the mining complexity and the rate at which new blocks are added to the blockchain.

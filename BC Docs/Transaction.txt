@@ -1,0 +1,45 @@
+Certainly! Below is an example of a `Transaction` class for managing transactions in a blockchain:
+
+```csharp
+using System;
+
+namespace Future
+{
+    public class Transaction
+    {
+        public string Sender { get; }
+        public string Recipient { get; }
+        public decimal Amount { get; }
+        public DateTime Timestamp { get; }
+
+        public Transaction(string sender, string recipient, decimal amount)
+        {
+            Sender = sender;
+            Recipient = recipient;
+            Amount = amount;
+            Timestamp = DateTime.Now;
+        }
+
+        public override string ToString()
+        {
+            return $"{Timestamp}: {Sender} sent {Amount} to {Recipient}";
+        }
+    }
+}
+```
+
+Explanation of the `Transaction` class:
+
+1. **Properties**:
+   - `Sender`: The sender's address or identifier.
+   - `Recipient`: The recipient's address or identifier.
+   - `Amount`: The amount of cryptocurrency or value transferred.
+   - `Timestamp`: The timestamp when the transaction occurred.
+
+2. **Constructor**:
+   - Initializes the transaction with the sender, recipient, amount, and sets the timestamp to the current time.
+
+3. **ToString()**:
+   - Overrides the `ToString()` method to provide a string representation of the transaction, including the timestamp, sender, amount, and recipient.
+
+You can use this `Transaction` class to create, manage, and represent individual transactions within your blockchain.
