@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\RatchetCoin\\RachetCoin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9D3FB0-8C37-494B-B3AC-5E66C65FC43B}|RachetCoin\\RachetCoin.csproj|c:\\users\\innovative tech2\\documents\\github\\ratchetcoin\\rachetcoin\\rachetcoin\\controllers\\blockchaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9D3FB0-8C37-494B-B3AC-5E66C65FC43B}|RachetCoin\\RachetCoin.csproj|solutionrelative:rachetcoin\\controllers\\blockchaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BAD92-502D-4558-B341-A5C312249571}|RatchetCoinUIModels\\RatchetCoinUIModels.csproj|c:\\users\\innovative tech2\\documents\\github\\ratchetcoin\\rachetcoin\\ratchetcoinuimodels\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BAD92-502D-4558-B341-A5C312249571}|RatchetCoinUIModels\\RatchetCoinUIModels.csproj|solutionrelative:ratchetcoinuimodels\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BAD92-502D-4558-B341-A5C312249571}|RatchetCoinUIModels\\RatchetCoinUIModels.csproj|c:\\users\\innovative tech2\\documents\\github\\ratchetcoin\\rachetcoin\\ratchetcoinuimodels\\models\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BAD92-502D-4558-B341-A5C312249571}|RatchetCoinUIModels\\RatchetCoinUIModels.csproj|solutionrelative:ratchetcoinuimodels\\models\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BAD92-502D-4558-B341-A5C312249571}|RatchetCoinUIModels\\RatchetCoinUIModels.csproj|c:\\users\\innovative tech2\\documents\\github\\ratchetcoin\\rachetcoin\\ratchetcoinuimodels\\models\\blockchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BAD92-502D-4558-B341-A5C312249571}|RatchetCoinUIModels\\RatchetCoinUIModels.csproj|solutionrelative:ratchetcoinuimodels\\models\\blockchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlockchainController.cs",
+              "DocumentMoniker": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\RatchetCoin\\RachetCoin\\RachetCoin\\Controllers\\BlockchainController.cs",
+              "RelativeDocumentMoniker": "RachetCoin\\Controllers\\BlockchainController.cs",
+              "ToolTip": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\RatchetCoin\\RachetCoin\\RachetCoin\\Controllers\\BlockchainController.cs",
+              "RelativeToolTip": "RachetCoin\\Controllers\\BlockchainController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:19:12.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blockchain.cs",
+              "DocumentMoniker": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\RatchetCoin\\RachetCoin\\RatchetCoinUIModels\\Models\\Blockchain.cs",
+              "RelativeDocumentMoniker": "RatchetCoinUIModels\\Models\\Blockchain.cs",
+              "ToolTip": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\RatchetCoin\\RachetCoin\\RatchetCoinUIModels\\Models\\Blockchain.cs",
+              "RelativeToolTip": "RatchetCoinUIModels\\Models\\Blockchain.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwBkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:08:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\RatchetCoin\\RachetCoin\\RatchetCoinUIModels\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "RatchetCoinUIModels\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\RatchetCoin\\RachetCoin\\RatchetCoinUIModels\\Models\\Transaction.cs",
+              "RelativeToolTip": "RatchetCoinUIModels\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:07:30.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\RatchetCoin\\RachetCoin\\RatchetCoinUIModels\\Models\\Block.cs",
+              "RelativeDocumentMoniker": "RatchetCoinUIModels\\Models\\Block.cs",
+              "ToolTip": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\RatchetCoin\\RachetCoin\\RatchetCoinUIModels\\Models\\Block.cs",
+              "RelativeToolTip": "RatchetCoinUIModels\\Models\\Block.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:57:20.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

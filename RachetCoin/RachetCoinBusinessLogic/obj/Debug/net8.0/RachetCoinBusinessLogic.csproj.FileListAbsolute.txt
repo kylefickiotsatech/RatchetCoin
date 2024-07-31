@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinBusinessLogic\bin\Debug\net8.0\RachetCoinBusinessLogic.exe
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinBusinessLogic\bin\Debug\net8.0\RachetCoinBusinessLogic.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinBusinessLogic\bin\Debug\net8.0\RachetCoinBusinessLogic.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinBusinessLogic\bin\Debug\net8.0\RachetCoinBusinessLogic.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinBusinessLogic\bin\Debug\net8.0\RachetCoinBusinessLogic.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinBusinessLogic\obj\Debug\net8.0\RachetCoinBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinBusinessLogic\obj\Debug\net8.0\RachetCoinBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinBusinessLogic\obj\Debug\net8.0\RachetCoinBusinessLogic.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinBusinessLogic\obj\Debug\net8.0\RachetCoinBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinBusinessLogic\obj\Debug\net8.0\RachetCoinBusinessLogic.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinBusinessLogic\obj\Debug\net8.0\RachetCoinBusinessLogic.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinBusinessLogic\obj\Debug\net8.0\refint\RachetCoinBusinessLogic.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinBusinessLogic\obj\Debug\net8.0\RachetCoinBusinessLogic.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinBusinessLogic\obj\Debug\net8.0\RachetCoinBusinessLogic.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinBusinessLogic\obj\Debug\net8.0\ref\RachetCoinBusinessLogic.dll

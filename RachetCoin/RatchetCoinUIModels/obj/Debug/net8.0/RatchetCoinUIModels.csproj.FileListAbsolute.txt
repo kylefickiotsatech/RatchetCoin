@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\bin\Debug\net8.0\RatchetCoinUIModels.exe
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\bin\Debug\net8.0\RatchetCoinUIModels.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\bin\Debug\net8.0\RatchetCoinUIModels.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\bin\Debug\net8.0\RatchetCoinUIModels.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\bin\Debug\net8.0\RatchetCoinUIModels.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RatchetCoinUIModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RatchetCoinUIModels.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RatchetCoinUIModels.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RatchetCoinUIModels.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RatchetCoinUIModels.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RatchetCoinUIModels.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\refint\RatchetCoinUIModels.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RatchetCoinUIModels.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RatchetCoinUIModels.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\ref\RatchetCoinUIModels.dll

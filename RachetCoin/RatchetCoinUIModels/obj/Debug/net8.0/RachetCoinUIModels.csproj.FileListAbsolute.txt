@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\bin\Debug\net8.0\RachetCoinUIModels.exe
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\bin\Debug\net8.0\RachetCoinUIModels.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\bin\Debug\net8.0\RachetCoinUIModels.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\bin\Debug\net8.0\RachetCoinUIModels.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\bin\Debug\net8.0\RachetCoinUIModels.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RachetCoinUIModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RachetCoinUIModels.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RachetCoinUIModels.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RachetCoinUIModels.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RachetCoinUIModels.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RachetCoinUIModels.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\refint\RachetCoinUIModels.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RachetCoinUIModels.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\RachetCoinUIModels.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RatchetCoinUIModels\obj\Debug\net8.0\ref\RachetCoinUIModels.dll

@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinDAL\bin\Debug\net8.0\RachetCoinDAL.exe
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinDAL\bin\Debug\net8.0\RachetCoinDAL.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinDAL\bin\Debug\net8.0\RachetCoinDAL.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinDAL\bin\Debug\net8.0\RachetCoinDAL.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinDAL\bin\Debug\net8.0\RachetCoinDAL.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinDAL\obj\Debug\net8.0\RachetCoinDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinDAL\obj\Debug\net8.0\RachetCoinDAL.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinDAL\obj\Debug\net8.0\RachetCoinDAL.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinDAL\obj\Debug\net8.0\RachetCoinDAL.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinDAL\obj\Debug\net8.0\RachetCoinDAL.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinDAL\obj\Debug\net8.0\RachetCoinDAL.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinDAL\obj\Debug\net8.0\refint\RachetCoinDAL.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinDAL\obj\Debug\net8.0\RachetCoinDAL.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinDAL\obj\Debug\net8.0\RachetCoinDAL.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinDAL\obj\Debug\net8.0\ref\RachetCoinDAL.dll

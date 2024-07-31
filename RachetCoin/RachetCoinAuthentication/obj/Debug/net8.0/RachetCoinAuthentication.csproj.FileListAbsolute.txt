@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinAuthentication\bin\Debug\net8.0\RachetCoinAuthentication.exe
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinAuthentication\bin\Debug\net8.0\RachetCoinAuthentication.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinAuthentication\bin\Debug\net8.0\RachetCoinAuthentication.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinAuthentication\bin\Debug\net8.0\RachetCoinAuthentication.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinAuthentication\bin\Debug\net8.0\RachetCoinAuthentication.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinAuthentication\obj\Debug\net8.0\RachetCoinAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinAuthentication\obj\Debug\net8.0\RachetCoinAuthentication.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinAuthentication\obj\Debug\net8.0\RachetCoinAuthentication.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinAuthentication\obj\Debug\net8.0\RachetCoinAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinAuthentication\obj\Debug\net8.0\RachetCoinAuthentication.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinAuthentication\obj\Debug\net8.0\RachetCoinAuthentication.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinAuthentication\obj\Debug\net8.0\refint\RachetCoinAuthentication.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinAuthentication\obj\Debug\net8.0\RachetCoinAuthentication.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinAuthentication\obj\Debug\net8.0\RachetCoinAuthentication.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinAuthentication\obj\Debug\net8.0\ref\RachetCoinAuthentication.dll

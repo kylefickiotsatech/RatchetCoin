@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RachetCoin/1.0.0": {
+        "dependencies": {
+          "RachetCoinAuthentication": "1.0.0",
+          "RachetCoinBusinessLogic": "1.0.0",
+          "RachetCoinDAL": "1.0.0",
+          "RachetCoinResources": "1.0.0",
+          "RachetCoinServices": "1.0.0",
+          "RatchetCoinUIModels": "1.0.0"
+        },
+        "runtime": {
+          "RachetCoin.dll": {}
+        }
+      },
+      "RachetCoinAuthentication/1.0.0": {
+        "runtime": {
+          "RachetCoinAuthentication.dll": {}
+        }
+      },
+      "RachetCoinBusinessLogic/1.0.0": {
+        "runtime": {
+          "RachetCoinBusinessLogic.dll": {}
+        }
+      },
+      "RachetCoinDAL/1.0.0": {
+        "runtime": {
+          "RachetCoinDAL.dll": {}
+        }
+      },
+      "RachetCoinResources/1.0.0": {
+        "runtime": {
+          "RachetCoinResources.dll": {}
+        }
+      },
+      "RachetCoinServices/1.0.0": {
+        "runtime": {
+          "RachetCoinServices.dll": {}
+        }
+      },
+      "RatchetCoinUIModels/1.0.0": {
+        "runtime": {
+          "RatchetCoinUIModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RachetCoin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RachetCoinAuthentication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RachetCoinBusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RachetCoinDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RachetCoinResources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RachetCoinServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RatchetCoinUIModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

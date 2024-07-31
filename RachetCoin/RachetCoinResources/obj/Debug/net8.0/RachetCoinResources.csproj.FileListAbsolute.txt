@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinResources\bin\Debug\net8.0\RachetCoinResources.exe
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinResources\bin\Debug\net8.0\RachetCoinResources.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinResources\bin\Debug\net8.0\RachetCoinResources.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinResources\bin\Debug\net8.0\RachetCoinResources.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinResources\bin\Debug\net8.0\RachetCoinResources.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinResources\obj\Debug\net8.0\RachetCoinResources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinResources\obj\Debug\net8.0\RachetCoinResources.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinResources\obj\Debug\net8.0\RachetCoinResources.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinResources\obj\Debug\net8.0\RachetCoinResources.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinResources\obj\Debug\net8.0\RachetCoinResources.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinResources\obj\Debug\net8.0\RachetCoinResources.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinResources\obj\Debug\net8.0\refint\RachetCoinResources.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinResources\obj\Debug\net8.0\RachetCoinResources.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinResources\obj\Debug\net8.0\RachetCoinResources.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinResources\obj\Debug\net8.0\ref\RachetCoinResources.dll

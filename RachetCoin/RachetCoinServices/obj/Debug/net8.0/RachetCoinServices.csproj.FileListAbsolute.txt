@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinServices\bin\Debug\net8.0\RachetCoinServices.exe
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinServices\bin\Debug\net8.0\RachetCoinServices.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinServices\bin\Debug\net8.0\RachetCoinServices.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinServices\bin\Debug\net8.0\RachetCoinServices.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinServices\bin\Debug\net8.0\RachetCoinServices.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinServices\obj\Debug\net8.0\RachetCoinServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinServices\obj\Debug\net8.0\RachetCoinServices.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinServices\obj\Debug\net8.0\RachetCoinServices.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinServices\obj\Debug\net8.0\RachetCoinServices.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinServices\obj\Debug\net8.0\RachetCoinServices.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinServices\obj\Debug\net8.0\RachetCoinServices.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinServices\obj\Debug\net8.0\refint\RachetCoinServices.dll
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinServices\obj\Debug\net8.0\RachetCoinServices.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinServices\obj\Debug\net8.0\RachetCoinServices.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\RatchetCoin\RachetCoin\RachetCoinServices\obj\Debug\net8.0\ref\RachetCoinServices.dll

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RachetCoin", "RachetCoin\RachetCoin.csproj", "{1E9D3FB0-8C37-494B-B3AC-5E66C65FC43B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RachetCoinUIModels", "RatchetCoinUIModels\RachetCoinUIModels.csproj", "{162BAD92-502D-4558-B341-A5C312249571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RachetCoinDAL", "RachetCoinDAL\RachetCoinDAL.csproj", "{CF02AA3C-D557-4FBA-B89E-941C9C8CBA30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RachetCoinAuthentication", "RachetCoinAuthentication\RachetCoinAuthentication.csproj", "{8234B696-744D-479A-B7DD-E092BC01EC74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RachetCoinServices", "RachetCoinServices\RachetCoinServices.csproj", "{5EF2FBD4-BFF9-4A88-9446-A6136388066F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RachetCoinBusinessLogic", "RachetCoinBusinessLogic\RachetCoinBusinessLogic.csproj", "{6C081F00-1EFB-4BC7-B094-A84324D106DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RachetCoinResources", "RachetCoinResources\RachetCoinResources.csproj", "{D63BE9BC-8F2E-4BCB-B01C-CC8FC0CC173D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E9D3FB0-8C37-494B-B3AC-5E66C65FC43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9D3FB0-8C37-494B-B3AC-5E66C65FC43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E9D3FB0-8C37-494B-B3AC-5E66C65FC43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9D3FB0-8C37-494B-B3AC-5E66C65FC43B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{162BAD92-502D-4558-B341-A5C312249571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162BAD92-502D-4558-B341-A5C312249571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162BAD92-502D-4558-B341-A5C312249571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162BAD92-502D-4558-B341-A5C312249571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF02AA3C-D557-4FBA-B89E-941C9C8CBA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF02AA3C-D557-4FBA-B89E-941C9C8CBA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF02AA3C-D557-4FBA-B89E-941C9C8CBA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF02AA3C-D557-4FBA-B89E-941C9C8CBA30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8234B696-744D-479A-B7DD-E092BC01EC74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8234B696-744D-479A-B7DD-E092BC01EC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8234B696-744D-479A-B7DD-E092BC01EC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8234B696-744D-479A-B7DD-E092BC01EC74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF2FBD4-BFF9-4A88-9446-A6136388066F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF2FBD4-BFF9-4A88-9446-A6136388066F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF2FBD4-BFF9-4A88-9446-A6136388066F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF2FBD4-BFF9-4A88-9446-A6136388066F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C081F00-1EFB-4BC7-B094-A84324D106DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C081F00-1EFB-4BC7-B094-A84324D106DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C081F00-1EFB-4BC7-B094-A84324D106DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C081F00-1EFB-4BC7-B094-A84324D106DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63BE9BC-8F2E-4BCB-B01C-CC8FC0CC173D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63BE9BC-8F2E-4BCB-B01C-CC8FC0CC173D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63BE9BC-8F2E-4BCB-B01C-CC8FC0CC173D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63BE9BC-8F2E-4BCB-B01C-CC8FC0CC173D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84EEE6FC-30B8-48AE-91F7-798D4FC59E2C}
+	EndGlobalSection
+EndGlobal
